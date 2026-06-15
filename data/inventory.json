@@ -1,0 +1,86 @@
+[
+  {
+    "material": "OPC 53 Grade Cement",
+    "unit": "tonnes",
+    "on_hand": 148.5,
+    "reorder_level": 50.0,
+    "max_capacity": 300.0,
+    "consumption_per_m3_C30": 0.32,
+    "consumption_per_m3_C40": 0.38,
+    "consumption_per_m3_C50": 0.44,
+    "supplier": "Irish Cement Ltd, Platin",
+    "lead_time_days": 2
+  },
+  {
+    "material": "Coarse Aggregate 20mm",
+    "unit": "tonnes",
+    "on_hand": 210.0,
+    "reorder_level": 80.0,
+    "max_capacity": 500.0,
+    "consumption_per_m3_C30": 1.1,
+    "consumption_per_m3_C40": 1.05,
+    "consumption_per_m3_C50": 1.0,
+    "supplier": "Roadstone Ltd",
+    "lead_time_days": 1
+  },
+  {
+    "material": "Coarse Aggregate 10mm",
+    "unit": "tonnes",
+    "on_hand": 95.0,
+    "reorder_level": 40.0,
+    "max_capacity": 200.0,
+    "consumption_per_m3_C30": 0.45,
+    "consumption_per_m3_C40": 0.42,
+    "consumption_per_m3_C50": 0.4,
+    "supplier": "Roadstone Ltd",
+    "lead_time_days": 1
+  },
+  {
+    "material": "River Sand (Fine Aggregate)",
+    "unit": "tonnes",
+    "on_hand": 88.0,
+    "reorder_level": 40.0,
+    "max_capacity": 250.0,
+    "consumption_per_m3_C30": 0.75,
+    "consumption_per_m3_C40": 0.68,
+    "consumption_per_m3_C50": 0.62,
+    "supplier": "Local quarry, Bailieborough",
+    "lead_time_days": 1
+  },
+  {
+    "material": "Fly Ash (PFA)",
+    "unit": "tonnes",
+    "on_hand": 28.0,
+    "reorder_level": 15.0,
+    "max_capacity": 80.0,
+    "consumption_per_m3_C30": 0.08,
+    "consumption_per_m3_C40": 0.06,
+    "consumption_per_m3_C50": 0.04,
+    "supplier": "Moneypoint Power Station",
+    "lead_time_days": 3
+  },
+  {
+    "material": "Superplasticizer (SIKA ViscoCrete)",
+    "unit": "litres",
+    "on_hand": 1240.0,
+    "reorder_level": 400.0,
+    "max_capacity": 3000.0,
+    "consumption_per_m3_C30": 2.5,
+    "consumption_per_m3_C40": 3.5,
+    "consumption_per_m3_C50": 5.0,
+    "supplier": "SIKA Ireland",
+    "lead_time_days": 2
+  },
+  {
+    "material": "Steel Reinforcement (Rebar 12mm)",
+    "unit": "tonnes",
+    "on_hand": 42.0,
+    "reorder_level": 10.0,
+    "max_capacity": 100.0,
+    "consumption_per_m3_C30": 0.12,
+    "consumption_per_m3_C40": 0.14,
+    "consumption_per_m3_C50": 0.16,
+    "supplier": "Ennio Steel",
+    "lead_time_days": 4
+  }
+]

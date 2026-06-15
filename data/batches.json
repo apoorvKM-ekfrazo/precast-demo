@@ -1,0 +1,1202 @@
+[
+  {
+    "batch_id": "BCH-2025-2000",
+    "order_id": "ORD-2025-1100",
+    "grade": "C40",
+    "volume_m3": 7.5,
+    "truck_id": "TRK-001",
+    "truck_reg": "CV-23-D-1142",
+    "driver": "Padraig Murphy",
+    "site_id": "SITE-05",
+    "site_name": "Cavan Town Apartments",
+    "qr_code": "ORP-QR-3000",
+    "rfid_tag": "RFID-B1DF",
+    "stages": {
+      "mix": {
+        "start": "2026-05-08T06:06:18.404996",
+        "end": "2026-05-08T06:19:18.404996",
+        "status": "complete",
+        "operator": "Plant Control"
+      },
+      "pour": {
+        "start": "2026-05-08T06:30:18.404996",
+        "end": "2026-05-08T07:10:18.404996",
+        "status": "complete",
+        "operator": "Mould Team B"
+      },
+      "cure": {
+        "start": "2026-05-08T07:10:18.404996",
+        "end": "2026-05-09T08:10:18.404996",
+        "status": "complete",
+        "operator": "Curing Bay 2"
+      },
+      "yard": {
+        "start": "2026-05-09T08:10:18.404996",
+        "end": "2026-05-10T13:10:18.404996",
+        "status": "complete",
+        "operator": "Yard Team"
+      },
+      "dispatch": {
+        "start": "2026-05-10T13:10:18.404996",
+        "end": "2026-05-10T13:10:18.404996",
+        "status": "complete",
+        "operator": "Padraig Murphy"
+      },
+      "delivery": {
+        "start": "2026-05-10T15:26:28.123704",
+        "end": "2026-05-10T15:26:28.123704",
+        "status": "complete",
+        "operator": "Padraig Murphy"
+      }
+    },
+    "qa": {
+      "slump_mm": 123,
+      "slump_pass": true,
+      "water_cement_ratio": 0.48,
+      "air_content_pct": 3.1,
+      "28day_strength_mpa": 50.7,
+      "strength_pass": true,
+      "overall_qa": "PASS"
+    }
+  },
+  {
+    "batch_id": "BCH-2025-2001",
+    "order_id": "ORD-2025-1101",
+    "grade": "C50",
+    "volume_m3": 7.5,
+    "truck_id": "TRK-002",
+    "truck_reg": "MH-22-MH-887",
+    "driver": "Sean Fitzpatrick",
+    "site_id": "SITE-04",
+    "site_name": "Dundalk Industrial Estate",
+    "qr_code": "ORP-QR-3001",
+    "rfid_tag": "RFID-EC57",
+    "stages": {
+      "mix": {
+        "start": "2026-05-14T06:16:18.404996",
+        "end": "2026-05-14T06:31:18.404996",
+        "status": "complete",
+        "operator": "Plant Control"
+      },
+      "pour": {
+        "start": "2026-05-14T06:38:18.404996",
+        "end": "2026-05-14T07:22:18.404996",
+        "status": "complete",
+        "operator": "Mould Team B"
+      },
+      "cure": {
+        "start": "2026-05-14T07:22:18.404996",
+        "end": "2026-05-15T01:22:18.404996",
+        "status": "complete",
+        "operator": "Curing Bay 2"
+      },
+      "yard": {
+        "start": "2026-05-15T01:22:18.404996",
+        "end": "2026-05-15T12:22:18.404996",
+        "status": "complete",
+        "operator": "Yard Team"
+      },
+      "dispatch": {
+        "start": "2026-05-15T12:22:18.404996",
+        "end": "2026-05-15T12:22:18.404996",
+        "status": "complete",
+        "operator": "Sean Fitzpatrick"
+      },
+      "delivery": {
+        "start": "2026-05-15T13:10:38.862495",
+        "end": "2026-05-15T13:10:38.862495",
+        "status": "complete",
+        "operator": "Sean Fitzpatrick"
+      }
+    },
+    "qa": {
+      "slump_mm": 76,
+      "slump_pass": true,
+      "water_cement_ratio": 0.43,
+      "air_content_pct": 3.3,
+      "28day_strength_mpa": 51.3,
+      "strength_pass": true,
+      "overall_qa": "PASS"
+    }
+  },
+  {
+    "batch_id": "BCH-2025-2002",
+    "order_id": "ORD-2025-1102",
+    "grade": "C30",
+    "volume_m3": 8.0,
+    "truck_id": "TRK-006",
+    "truck_reg": "WH-22-WH-603",
+    "driver": "Michael Dunne",
+    "site_id": "SITE-02",
+    "site_name": "Drogheda Road Bridge",
+    "qr_code": "ORP-QR-3002",
+    "rfid_tag": "RFID-FC1E",
+    "stages": {
+      "mix": {
+        "start": "2026-05-16T06:24:18.404996",
+        "end": "2026-05-16T06:36:18.404996",
+        "status": "complete",
+        "operator": "Plant Control"
+      },
+      "pour": {
+        "start": "2026-05-16T06:51:18.404996",
+        "end": "2026-05-16T07:14:18.404996",
+        "status": "complete",
+        "operator": "Mould Team B"
+      },
+      "cure": {
+        "start": "2026-05-16T07:14:18.404996",
+        "end": "2026-05-17T05:14:18.404996",
+        "status": "complete",
+        "operator": "Curing Bay 2"
+      },
+      "yard": {
+        "start": "2026-05-17T05:14:18.404996",
+        "end": "2026-05-18T12:14:18.404996",
+        "status": "complete",
+        "operator": "Yard Team"
+      },
+      "dispatch": {
+        "start": "2026-05-18T12:14:18.404996",
+        "end": "2026-05-18T12:14:18.404996",
+        "status": "complete",
+        "operator": "Michael Dunne"
+      },
+      "delivery": {
+        "start": "2026-05-18T13:03:17.140827",
+        "end": "2026-05-18T13:03:17.140827",
+        "status": "complete",
+        "operator": "Michael Dunne"
+      }
+    },
+    "qa": {
+      "slump_mm": 127,
+      "slump_pass": false,
+      "water_cement_ratio": 0.52,
+      "air_content_pct": 3.8,
+      "28day_strength_mpa": 41.7,
+      "strength_pass": true,
+      "overall_qa": "FAIL"
+    }
+  },
+  {
+    "batch_id": "BCH-2025-2003",
+    "order_id": "ORD-2025-1103",
+    "grade": "C40",
+    "volume_m3": 8.0,
+    "truck_id": "TRK-002",
+    "truck_reg": "MH-22-MH-887",
+    "driver": "Sean Fitzpatrick",
+    "site_id": "SITE-04",
+    "site_name": "Dundalk Industrial Estate",
+    "qr_code": "ORP-QR-3003",
+    "rfid_tag": "RFID-C75C",
+    "stages": {
+      "mix": {
+        "start": "2026-05-19T06:11:18.404996",
+        "end": "2026-05-19T06:21:18.404996",
+        "status": "complete",
+        "operator": "Plant Control"
+      },
+      "pour": {
+        "start": "2026-05-19T06:26:18.404996",
+        "end": "2026-05-19T07:05:18.404996",
+        "status": "complete",
+        "operator": "Mould Team B"
+      },
+      "cure": {
+        "start": "2026-05-19T07:05:18.404996",
+        "end": "2026-05-20T06:05:18.404996",
+        "status": "complete",
+        "operator": "Curing Bay 2"
+      },
+      "yard": {
+        "start": "2026-05-20T06:05:18.404996",
+        "end": "2026-05-21T17:05:18.404996",
+        "status": "complete",
+        "operator": "Yard Team"
+      },
+      "dispatch": {
+        "start": "2026-05-21T17:05:18.404996",
+        "end": "2026-05-21T17:05:18.404996",
+        "status": "complete",
+        "operator": "Sean Fitzpatrick"
+      },
+      "delivery": {
+        "start": "2026-05-21T17:37:38.637541",
+        "end": "2026-05-21T17:37:38.637541",
+        "status": "complete",
+        "operator": "Sean Fitzpatrick"
+      }
+    },
+    "qa": {
+      "slump_mm": 121,
+      "slump_pass": true,
+      "water_cement_ratio": 0.39,
+      "air_content_pct": 4.1,
+      "28day_strength_mpa": 54.1,
+      "strength_pass": true,
+      "overall_qa": "PASS"
+    }
+  },
+  {
+    "batch_id": "BCH-2025-2004",
+    "order_id": "ORD-2025-1104",
+    "grade": "C50",
+    "volume_m3": 6.0,
+    "truck_id": "TRK-002",
+    "truck_reg": "MH-22-MH-887",
+    "driver": "Sean Fitzpatrick",
+    "site_id": "SITE-03",
+    "site_name": "Navan Retail Park",
+    "qr_code": "ORP-QR-3004",
+    "rfid_tag": "RFID-FD6E",
+    "stages": {
+      "mix": {
+        "start": "2026-05-19T06:21:18.404996",
+        "end": "2026-05-19T06:36:18.404996",
+        "status": "complete",
+        "operator": "Plant Control"
+      },
+      "pour": {
+        "start": "2026-05-19T06:46:18.404996",
+        "end": "2026-05-19T07:14:18.404996",
+        "status": "complete",
+        "operator": "Mould Team B"
+      },
+      "cure": {
+        "start": "2026-05-19T07:14:18.404996",
+        "end": "2026-05-20T09:14:18.404996",
+        "status": "complete",
+        "operator": "Curing Bay 2"
+      },
+      "yard": {
+        "start": "2026-05-20T09:14:18.404996",
+        "end": "2026-05-22T03:14:18.404996",
+        "status": "complete",
+        "operator": "Yard Team"
+      },
+      "dispatch": {
+        "start": "2026-05-22T03:14:18.404996",
+        "end": "2026-05-22T03:14:18.404996",
+        "status": "complete",
+        "operator": "Sean Fitzpatrick"
+      },
+      "delivery": {
+        "start": "2026-05-22T04:35:04.998165",
+        "end": "2026-05-22T04:35:04.998165",
+        "status": "complete",
+        "operator": "Sean Fitzpatrick"
+      }
+    },
+    "qa": {
+      "slump_mm": 111,
+      "slump_pass": true,
+      "water_cement_ratio": 0.48,
+      "air_content_pct": 2.7,
+      "28day_strength_mpa": 52.7,
+      "strength_pass": true,
+      "overall_qa": "PASS"
+    }
+  },
+  {
+    "batch_id": "BCH-2025-2005",
+    "order_id": "ORD-2025-1105",
+    "grade": "C50",
+    "volume_m3": 8.0,
+    "truck_id": "TRK-001",
+    "truck_reg": "CV-23-D-1142",
+    "driver": "Padraig Murphy",
+    "site_id": "SITE-08",
+    "site_name": "Athlone River Crossing",
+    "qr_code": "ORP-QR-3005",
+    "rfid_tag": "RFID-FA9A",
+    "stages": {
+      "mix": {
+        "start": "2026-05-15T06:07:18.404996",
+        "end": "2026-05-15T06:18:18.404996",
+        "status": "complete",
+        "operator": "Plant Control"
+      },
+      "pour": {
+        "start": "2026-05-15T06:25:18.404996",
+        "end": "2026-05-15T06:55:18.404996",
+        "status": "complete",
+        "operator": "Mould Team B"
+      },
+      "cure": {
+        "start": "2026-05-15T06:55:18.404996",
+        "end": "2026-05-16T00:55:18.404996",
+        "status": "complete",
+        "operator": "Curing Bay 2"
+      },
+      "yard": {
+        "start": "2026-05-16T00:55:18.404996",
+        "end": "2026-05-17T17:55:18.404996",
+        "status": "complete",
+        "operator": "Yard Team"
+      },
+      "dispatch": {
+        "start": "2026-05-17T17:55:18.404996",
+        "end": "2026-05-17T17:55:18.404996",
+        "status": "complete",
+        "operator": "Padraig Murphy"
+      },
+      "delivery": {
+        "start": "2026-05-17T19:31:46.639957",
+        "end": "2026-05-17T19:31:46.639957",
+        "status": "complete",
+        "operator": "Padraig Murphy"
+      }
+    },
+    "qa": {
+      "slump_mm": 75,
+      "slump_pass": true,
+      "water_cement_ratio": 0.41,
+      "air_content_pct": 4.2,
+      "28day_strength_mpa": 54.0,
+      "strength_pass": false,
+      "overall_qa": "FAIL"
+    }
+  },
+  {
+    "batch_id": "BCH-2025-2006",
+    "order_id": "ORD-2025-1106",
+    "grade": "C40",
+    "volume_m3": 7.5,
+    "truck_id": "TRK-002",
+    "truck_reg": "MH-22-MH-887",
+    "driver": "Sean Fitzpatrick",
+    "site_id": "SITE-08",
+    "site_name": "Athlone River Crossing",
+    "qr_code": "ORP-QR-3006",
+    "rfid_tag": "RFID-D637",
+    "stages": {
+      "mix": {
+        "start": "2026-05-19T06:17:18.404996",
+        "end": "2026-05-19T06:27:18.404996",
+        "status": "complete",
+        "operator": "Plant Control"
+      },
+      "pour": {
+        "start": "2026-05-19T06:47:18.404996",
+        "end": "2026-05-19T07:14:18.404996",
+        "status": "complete",
+        "operator": "Mould Team B"
+      },
+      "cure": {
+        "start": "2026-05-19T07:14:18.404996",
+        "end": "2026-05-20T08:14:18.404996",
+        "status": "complete",
+        "operator": "Curing Bay 2"
+      },
+      "yard": {
+        "start": "2026-05-20T08:14:18.404996",
+        "end": "2026-05-21T14:14:18.404996",
+        "status": "complete",
+        "operator": "Yard Team"
+      },
+      "dispatch": {
+        "start": "2026-05-21T14:14:18.404996",
+        "end": "2026-05-21T14:14:18.404996",
+        "status": "complete",
+        "operator": "Sean Fitzpatrick"
+      },
+      "delivery": {
+        "start": "2026-05-21T15:07:09.356379",
+        "end": "2026-05-21T15:07:09.356379",
+        "status": "complete",
+        "operator": "Sean Fitzpatrick"
+      }
+    },
+    "qa": {
+      "slump_mm": 165,
+      "slump_pass": true,
+      "water_cement_ratio": 0.45,
+      "air_content_pct": 3.7,
+      "28day_strength_mpa": 49.4,
+      "strength_pass": true,
+      "overall_qa": "PASS"
+    }
+  },
+  {
+    "batch_id": "BCH-2025-2007",
+    "order_id": "ORD-2025-1107",
+    "grade": "C30",
+    "volume_m3": 6.0,
+    "truck_id": "TRK-003",
+    "truck_reg": "LH-21-LH-445",
+    "driver": "Colm Brady",
+    "site_id": "SITE-07",
+    "site_name": "Mullingar Data Centre",
+    "qr_code": "ORP-QR-3007",
+    "rfid_tag": "RFID-BFF9",
+    "stages": {
+      "mix": {
+        "start": "2026-05-10T06:25:18.404996",
+        "end": "2026-05-10T06:34:18.404996",
+        "status": "complete",
+        "operator": "Plant Control"
+      },
+      "pour": {
+        "start": "2026-05-10T06:46:18.404996",
+        "end": "2026-05-10T07:12:18.404996",
+        "status": "complete",
+        "operator": "Mould Team B"
+      },
+      "cure": {
+        "start": "2026-05-10T07:12:18.404996",
+        "end": "2026-05-11T04:12:18.404996",
+        "status": "complete",
+        "operator": "Curing Bay 2"
+      },
+      "yard": {
+        "start": "2026-05-11T04:12:18.404996",
+        "end": "2026-05-12T18:12:18.404996",
+        "status": "complete",
+        "operator": "Yard Team"
+      },
+      "dispatch": {
+        "start": "2026-05-12T18:12:18.404996",
+        "end": "2026-05-12T18:12:18.404996",
+        "status": "complete",
+        "operator": "Colm Brady"
+      },
+      "delivery": {
+        "start": "2026-05-12T19:36:08.422540",
+        "end": "2026-05-12T19:36:08.422540",
+        "status": "complete",
+        "operator": "Colm Brady"
+      }
+    },
+    "qa": {
+      "slump_mm": 79,
+      "slump_pass": true,
+      "water_cement_ratio": 0.44,
+      "air_content_pct": 4.1,
+      "28day_strength_mpa": 42.9,
+      "strength_pass": true,
+      "overall_qa": "PASS"
+    }
+  },
+  {
+    "batch_id": "BCH-2025-2008",
+    "order_id": "ORD-2025-1108",
+    "grade": "C30",
+    "volume_m3": 6.0,
+    "truck_id": "TRK-002",
+    "truck_reg": "MH-22-MH-887",
+    "driver": "Sean Fitzpatrick",
+    "site_id": "SITE-04",
+    "site_name": "Dundalk Industrial Estate",
+    "qr_code": "ORP-QR-3008",
+    "rfid_tag": "RFID-DA3D",
+    "stages": {
+      "mix": {
+        "start": "2026-05-20T06:13:18.404996",
+        "end": "2026-05-20T06:28:18.404996",
+        "status": "complete",
+        "operator": "Plant Control"
+      },
+      "pour": {
+        "start": "2026-05-20T06:48:18.404996",
+        "end": "2026-05-20T07:14:18.404996",
+        "status": "complete",
+        "operator": "Mould Team B"
+      },
+      "cure": {
+        "start": "2026-05-20T07:14:18.404996",
+        "end": "2026-05-21T07:14:18.404996",
+        "status": "complete",
+        "operator": "Curing Bay 2"
+      },
+      "yard": {
+        "start": "2026-05-21T07:14:18.404996",
+        "end": "2026-05-21T14:14:18.404996",
+        "status": "complete",
+        "operator": "Yard Team"
+      },
+      "dispatch": {
+        "start": "2026-05-21T14:14:18.404996",
+        "end": "2026-05-21T14:14:18.404996",
+        "status": "complete",
+        "operator": "Sean Fitzpatrick"
+      },
+      "delivery": {
+        "start": "2026-05-21T15:04:03.792270",
+        "end": "2026-05-21T15:04:03.792270",
+        "status": "complete",
+        "operator": "Sean Fitzpatrick"
+      }
+    },
+    "qa": {
+      "slump_mm": 133,
+      "slump_pass": false,
+      "water_cement_ratio": 0.44,
+      "air_content_pct": 4.4,
+      "28day_strength_mpa": 54.9,
+      "strength_pass": true,
+      "overall_qa": "FAIL"
+    }
+  },
+  {
+    "batch_id": "BCH-2025-2009",
+    "order_id": "ORD-2025-1109",
+    "grade": "C50",
+    "volume_m3": 6.0,
+    "truck_id": "TRK-003",
+    "truck_reg": "LH-21-LH-445",
+    "driver": "Colm Brady",
+    "site_id": "SITE-04",
+    "site_name": "Dundalk Industrial Estate",
+    "qr_code": "ORP-QR-3009",
+    "rfid_tag": "RFID-E3FB",
+    "stages": {
+      "mix": {
+        "start": "2026-05-12T06:06:18.404996",
+        "end": "2026-05-12T06:14:18.404996",
+        "status": "complete",
+        "operator": "Plant Control"
+      },
+      "pour": {
+        "start": "2026-05-12T06:20:18.404996",
+        "end": "2026-05-12T07:03:18.404996",
+        "status": "complete",
+        "operator": "Mould Team B"
+      },
+      "cure": {
+        "start": "2026-05-12T07:03:18.404996",
+        "end": "2026-05-13T06:03:18.404996",
+        "status": "complete",
+        "operator": "Curing Bay 2"
+      },
+      "yard": {
+        "start": "2026-05-13T06:03:18.404996",
+        "end": "2026-05-13T13:03:18.404996",
+        "status": "complete",
+        "operator": "Yard Team"
+      },
+      "dispatch": {
+        "start": "2026-05-13T13:03:18.404996",
+        "end": "2026-05-13T13:03:18.404996",
+        "status": "complete",
+        "operator": "Colm Brady"
+      },
+      "delivery": {
+        "start": "2026-05-13T13:39:19.429824",
+        "end": "2026-05-13T13:39:19.429824",
+        "status": "complete",
+        "operator": "Colm Brady"
+      }
+    },
+    "qa": {
+      "slump_mm": 100,
+      "slump_pass": true,
+      "water_cement_ratio": 0.39,
+      "air_content_pct": 3.0,
+      "28day_strength_mpa": 54.0,
+      "strength_pass": true,
+      "overall_qa": "PASS"
+    }
+  },
+  {
+    "batch_id": "BCH-2025-2010",
+    "order_id": "ORD-2025-1110",
+    "grade": "C30",
+    "volume_m3": 8.0,
+    "truck_id": "TRK-004",
+    "truck_reg": "CN-20-CN-334",
+    "driver": "Kieran O'Brien",
+    "site_id": "SITE-04",
+    "site_name": "Dundalk Industrial Estate",
+    "qr_code": "ORP-QR-3010",
+    "rfid_tag": "RFID-C160",
+    "stages": {
+      "mix": {
+        "start": "2026-05-19T06:03:18.404996",
+        "end": "2026-05-19T06:14:18.404996",
+        "status": "complete",
+        "operator": "Plant Control"
+      },
+      "pour": {
+        "start": "2026-05-19T06:20:18.404996",
+        "end": "2026-05-19T06:59:18.404996",
+        "status": "complete",
+        "operator": "Mould Team B"
+      },
+      "cure": {
+        "start": "2026-05-19T06:59:18.404996",
+        "end": "2026-05-20T01:59:18.404996",
+        "status": "complete",
+        "operator": "Curing Bay 2"
+      },
+      "yard": {
+        "start": "2026-05-20T01:59:18.404996",
+        "end": "2026-05-21T07:59:18.404996",
+        "status": "complete",
+        "operator": "Yard Team"
+      },
+      "dispatch": {
+        "start": "2026-05-21T07:59:18.404996",
+        "end": "2026-05-21T07:59:18.404996",
+        "status": "complete",
+        "operator": "Kieran O'Brien"
+      },
+      "delivery": {
+        "start": "2026-05-21T09:48:11.491780",
+        "end": "2026-05-21T09:48:11.491780",
+        "status": "complete",
+        "operator": "Kieran O'Brien"
+      }
+    },
+    "qa": {
+      "slump_mm": 112,
+      "slump_pass": true,
+      "water_cement_ratio": 0.47,
+      "air_content_pct": 2.4,
+      "28day_strength_mpa": 35.2,
+      "strength_pass": true,
+      "overall_qa": "PASS"
+    }
+  },
+  {
+    "batch_id": "BCH-2025-2011",
+    "order_id": "ORD-2025-1111",
+    "grade": "C40",
+    "volume_m3": 7.5,
+    "truck_id": "TRK-001",
+    "truck_reg": "CV-23-D-1142",
+    "driver": "Padraig Murphy",
+    "site_id": "SITE-06",
+    "site_name": "Monaghan Bypass",
+    "qr_code": "ORP-QR-3011",
+    "rfid_tag": "RFID-A8CE",
+    "stages": {
+      "mix": {
+        "start": "2026-05-18T06:00:18.404996",
+        "end": "2026-05-18T06:15:18.404996",
+        "status": "complete",
+        "operator": "Plant Control"
+      },
+      "pour": {
+        "start": "2026-05-18T06:23:18.404996",
+        "end": "2026-05-18T06:45:18.404996",
+        "status": "complete",
+        "operator": "Mould Team B"
+      },
+      "cure": {
+        "start": "2026-05-18T06:45:18.404996",
+        "end": "2026-05-19T08:45:18.404996",
+        "status": "complete",
+        "operator": "Curing Bay 2"
+      },
+      "yard": {
+        "start": "2026-05-19T08:45:18.404996",
+        "end": "2026-05-20T01:45:18.404996",
+        "status": "complete",
+        "operator": "Yard Team"
+      },
+      "dispatch": {
+        "start": "2026-05-20T01:45:18.404996",
+        "end": "2026-05-20T01:45:18.404996",
+        "status": "complete",
+        "operator": "Padraig Murphy"
+      },
+      "delivery": {
+        "start": "2026-05-20T03:16:00.774793",
+        "end": "2026-05-20T03:16:00.774793",
+        "status": "complete",
+        "operator": "Padraig Murphy"
+      }
+    },
+    "qa": {
+      "slump_mm": 122,
+      "slump_pass": true,
+      "water_cement_ratio": 0.43,
+      "air_content_pct": 2.0,
+      "28day_strength_mpa": 52.2,
+      "strength_pass": true,
+      "overall_qa": "PASS"
+    }
+  },
+  {
+    "batch_id": "BCH-2025-2012",
+    "order_id": "ORD-2025-1100",
+    "grade": "C40",
+    "volume_m3": 8.0,
+    "truck_id": "TRK-006",
+    "truck_reg": "WH-22-WH-603",
+    "driver": "Michael Dunne",
+    "site_id": "SITE-01",
+    "site_name": "Dublin Port Tunnel Extension",
+    "qr_code": "ORP-QR-3012",
+    "rfid_tag": "RFID-BAF5",
+    "stages": {
+      "mix": {
+        "start": "2026-05-09T06:09:18.404996",
+        "end": "2026-05-09T06:18:18.404996",
+        "status": "complete",
+        "operator": "Plant Control"
+      },
+      "pour": {
+        "start": "2026-05-09T06:27:18.404996",
+        "end": "2026-05-09T06:55:18.404996",
+        "status": "complete",
+        "operator": "Mould Team B"
+      },
+      "cure": {
+        "start": "2026-05-09T06:55:18.404996",
+        "end": "2026-05-10T01:55:18.404996",
+        "status": "complete",
+        "operator": "Curing Bay 2"
+      },
+      "yard": {
+        "start": "2026-05-10T01:55:18.404996",
+        "end": "2026-05-10T11:55:18.404996",
+        "status": "complete",
+        "operator": "Yard Team"
+      },
+      "dispatch": {
+        "start": "2026-05-10T11:55:18.404996",
+        "end": "2026-05-10T11:55:18.404996",
+        "status": "complete",
+        "operator": "Michael Dunne"
+      },
+      "delivery": {
+        "start": "2026-05-10T13:54:23.805121",
+        "end": "2026-05-10T13:54:23.805121",
+        "status": "complete",
+        "operator": "Michael Dunne"
+      }
+    },
+    "qa": {
+      "slump_mm": 147,
+      "slump_pass": true,
+      "water_cement_ratio": 0.41,
+      "air_content_pct": 3.4,
+      "28day_strength_mpa": 42.5,
+      "strength_pass": true,
+      "overall_qa": "PASS"
+    }
+  },
+  {
+    "batch_id": "BCH-2025-2013",
+    "order_id": "ORD-2025-1101",
+    "grade": "C40",
+    "volume_m3": 6.0,
+    "truck_id": "TRK-004",
+    "truck_reg": "CN-20-CN-334",
+    "driver": "Kieran O'Brien",
+    "site_id": "SITE-02",
+    "site_name": "Drogheda Road Bridge",
+    "qr_code": "ORP-QR-3013",
+    "rfid_tag": "RFID-E69D",
+    "stages": {
+      "mix": {
+        "start": "2026-05-13T06:26:18.404996",
+        "end": "2026-05-13T06:38:18.404996",
+        "status": "complete",
+        "operator": "Plant Control"
+      },
+      "pour": {
+        "start": "2026-05-13T06:44:18.404996",
+        "end": "2026-05-13T07:04:18.404996",
+        "status": "complete",
+        "operator": "Mould Team B"
+      },
+      "cure": {
+        "start": "2026-05-13T07:04:18.404996",
+        "end": "2026-05-14T06:04:18.404996",
+        "status": "complete",
+        "operator": "Curing Bay 2"
+      },
+      "yard": {
+        "start": "2026-05-14T06:04:18.404996",
+        "end": "2026-05-14T18:04:18.404996",
+        "status": "complete",
+        "operator": "Yard Team"
+      },
+      "dispatch": {
+        "start": "2026-05-14T18:04:18.404996",
+        "end": "2026-05-14T18:04:18.404996",
+        "status": "complete",
+        "operator": "Kieran O'Brien"
+      },
+      "delivery": {
+        "start": "2026-05-14T19:50:45.621313",
+        "end": "2026-05-14T19:50:45.621313",
+        "status": "complete",
+        "operator": "Kieran O'Brien"
+      }
+    },
+    "qa": {
+      "slump_mm": 169,
+      "slump_pass": true,
+      "water_cement_ratio": 0.46,
+      "air_content_pct": 1.8,
+      "28day_strength_mpa": 54.1,
+      "strength_pass": true,
+      "overall_qa": "PASS"
+    }
+  },
+  {
+    "batch_id": "BCH-2025-2014",
+    "order_id": "ORD-2025-1102",
+    "grade": "C40",
+    "volume_m3": 8.0,
+    "truck_id": "TRK-003",
+    "truck_reg": "LH-21-LH-445",
+    "driver": "Colm Brady",
+    "site_id": "SITE-01",
+    "site_name": "Dublin Port Tunnel Extension",
+    "qr_code": "ORP-QR-3014",
+    "rfid_tag": "RFID-A51B",
+    "stages": {
+      "mix": {
+        "start": "2026-05-09T06:18:18.404996",
+        "end": "2026-05-09T06:28:18.404996",
+        "status": "complete",
+        "operator": "Plant Control"
+      },
+      "pour": {
+        "start": "2026-05-09T06:46:18.404996",
+        "end": "2026-05-09T07:10:18.404996",
+        "status": "complete",
+        "operator": "Mould Team B"
+      },
+      "cure": {
+        "start": "2026-05-09T07:10:18.404996",
+        "end": "2026-05-10T01:10:18.404996",
+        "status": "complete",
+        "operator": "Curing Bay 2"
+      },
+      "yard": {
+        "start": "2026-05-10T01:10:18.404996",
+        "end": "2026-05-11T00:10:18.404996",
+        "status": "complete",
+        "operator": "Yard Team"
+      },
+      "dispatch": {
+        "start": "2026-05-11T00:10:18.404996",
+        "end": "2026-05-11T00:10:18.404996",
+        "status": "complete",
+        "operator": "Colm Brady"
+      },
+      "delivery": {
+        "start": "2026-05-11T01:24:03.895906",
+        "end": "2026-05-11T01:24:03.895906",
+        "status": "complete",
+        "operator": "Colm Brady"
+      }
+    },
+    "qa": {
+      "slump_mm": 151,
+      "slump_pass": true,
+      "water_cement_ratio": 0.41,
+      "air_content_pct": 2.2,
+      "28day_strength_mpa": 39.7,
+      "strength_pass": true,
+      "overall_qa": "PASS"
+    }
+  },
+  {
+    "batch_id": "BCH-2025-2015",
+    "order_id": "ORD-2025-1103",
+    "grade": "C50",
+    "volume_m3": 8.0,
+    "truck_id": "TRK-002",
+    "truck_reg": "MH-22-MH-887",
+    "driver": "Sean Fitzpatrick",
+    "site_id": "SITE-03",
+    "site_name": "Navan Retail Park",
+    "qr_code": "ORP-QR-3015",
+    "rfid_tag": "RFID-F5BF",
+    "stages": {
+      "mix": {
+        "start": "2026-05-08T06:27:18.404996",
+        "end": "2026-05-08T06:37:18.404996",
+        "status": "complete",
+        "operator": "Plant Control"
+      },
+      "pour": {
+        "start": "2026-05-08T06:47:18.404996",
+        "end": "2026-05-08T07:20:18.404996",
+        "status": "complete",
+        "operator": "Mould Team B"
+      },
+      "cure": {
+        "start": "2026-05-08T07:20:18.404996",
+        "end": "2026-05-09T01:20:18.404996",
+        "status": "complete",
+        "operator": "Curing Bay 2"
+      },
+      "yard": {
+        "start": "2026-05-09T01:20:18.404996",
+        "end": "2026-05-09T16:20:18.404996",
+        "status": "complete",
+        "operator": "Yard Team"
+      },
+      "dispatch": {
+        "start": "2026-05-09T16:20:18.404996",
+        "end": "2026-05-09T16:20:18.404996",
+        "status": "complete",
+        "operator": "Sean Fitzpatrick"
+      },
+      "delivery": {
+        "start": "2026-05-09T18:18:41.669193",
+        "end": "2026-05-09T18:18:41.669193",
+        "status": "complete",
+        "operator": "Sean Fitzpatrick"
+      }
+    },
+    "qa": {
+      "slump_mm": 123,
+      "slump_pass": true,
+      "water_cement_ratio": 0.42,
+      "air_content_pct": 3.9,
+      "28day_strength_mpa": 48.8,
+      "strength_pass": true,
+      "overall_qa": "PASS"
+    }
+  },
+  {
+    "batch_id": "BCH-2025-2016",
+    "order_id": "ORD-2025-1104",
+    "grade": "C30",
+    "volume_m3": 7.5,
+    "truck_id": "TRK-002",
+    "truck_reg": "MH-22-MH-887",
+    "driver": "Sean Fitzpatrick",
+    "site_id": "SITE-04",
+    "site_name": "Dundalk Industrial Estate",
+    "qr_code": "ORP-QR-3016",
+    "rfid_tag": "RFID-A8E2",
+    "stages": {
+      "mix": {
+        "start": "2026-05-07T06:26:18.404996",
+        "end": "2026-05-07T06:41:18.404996",
+        "status": "complete",
+        "operator": "Plant Control"
+      },
+      "pour": {
+        "start": "2026-05-07T06:57:18.404996",
+        "end": "2026-05-07T07:26:18.404996",
+        "status": "complete",
+        "operator": "Mould Team B"
+      },
+      "cure": {
+        "start": "2026-05-07T07:26:18.404996",
+        "end": "2026-05-08T04:26:18.404996",
+        "status": "complete",
+        "operator": "Curing Bay 2"
+      },
+      "yard": {
+        "start": "2026-05-08T04:26:18.404996",
+        "end": "2026-05-08T22:26:18.404996",
+        "status": "complete",
+        "operator": "Yard Team"
+      },
+      "dispatch": {
+        "start": "2026-05-08T22:26:18.404996",
+        "end": "2026-05-08T22:26:18.404996",
+        "status": "complete",
+        "operator": "Sean Fitzpatrick"
+      },
+      "delivery": {
+        "start": "2026-05-08T22:59:08.788926",
+        "end": "2026-05-08T22:59:08.788926",
+        "status": "complete",
+        "operator": "Sean Fitzpatrick"
+      }
+    },
+    "qa": {
+      "slump_mm": 131,
+      "slump_pass": true,
+      "water_cement_ratio": 0.43,
+      "air_content_pct": 3.0,
+      "28day_strength_mpa": 46.3,
+      "strength_pass": true,
+      "overall_qa": "PASS"
+    }
+  },
+  {
+    "batch_id": "BCH-2025-2017",
+    "order_id": "ORD-2025-1105",
+    "grade": "C40",
+    "volume_m3": 6.0,
+    "truck_id": "TRK-003",
+    "truck_reg": "LH-21-LH-445",
+    "driver": "Colm Brady",
+    "site_id": "SITE-02",
+    "site_name": "Drogheda Road Bridge",
+    "qr_code": "ORP-QR-3017",
+    "rfid_tag": "RFID-E176",
+    "stages": {
+      "mix": {
+        "start": "2026-05-07T06:05:18.404996",
+        "end": "2026-05-07T06:17:18.404996",
+        "status": "complete",
+        "operator": "Plant Control"
+      },
+      "pour": {
+        "start": "2026-05-07T06:23:18.404996",
+        "end": "2026-05-07T06:46:18.404996",
+        "status": "complete",
+        "operator": "Mould Team B"
+      },
+      "cure": {
+        "start": "2026-05-07T06:46:18.404996",
+        "end": "2026-05-08T09:46:18.404996",
+        "status": "complete",
+        "operator": "Curing Bay 2"
+      },
+      "yard": {
+        "start": "2026-05-08T09:46:18.404996",
+        "end": "2026-05-09T16:46:18.404996",
+        "status": "complete",
+        "operator": "Yard Team"
+      },
+      "dispatch": {
+        "start": "2026-05-09T16:46:18.404996",
+        "end": "2026-05-09T16:46:18.404996",
+        "status": "complete",
+        "operator": "Colm Brady"
+      },
+      "delivery": {
+        "start": "2026-05-09T17:57:47.352200",
+        "end": "2026-05-09T17:57:47.352200",
+        "status": "complete",
+        "operator": "Colm Brady"
+      }
+    },
+    "qa": {
+      "slump_mm": 89,
+      "slump_pass": true,
+      "water_cement_ratio": 0.43,
+      "air_content_pct": 3.2,
+      "28day_strength_mpa": 42.3,
+      "strength_pass": true,
+      "overall_qa": "PASS"
+    }
+  },
+  {
+    "batch_id": "BCH-2025-2018",
+    "order_id": "ORD-2025-1106",
+    "grade": "C50",
+    "volume_m3": 6.0,
+    "truck_id": "TRK-003",
+    "truck_reg": "LH-21-LH-445",
+    "driver": "Colm Brady",
+    "site_id": "SITE-04",
+    "site_name": "Dundalk Industrial Estate",
+    "qr_code": "ORP-QR-3018",
+    "rfid_tag": "RFID-C796",
+    "stages": {
+      "mix": {
+        "start": "2026-05-09T06:13:18.404996",
+        "end": "2026-05-09T06:22:18.404996",
+        "status": "complete",
+        "operator": "Plant Control"
+      },
+      "pour": {
+        "start": "2026-05-09T06:37:18.404996",
+        "end": "2026-05-09T07:16:18.404996",
+        "status": "complete",
+        "operator": "Mould Team B"
+      },
+      "cure": {
+        "start": "2026-05-09T07:16:18.404996",
+        "end": "2026-05-10T06:16:18.404996",
+        "status": "complete",
+        "operator": "Curing Bay 2"
+      },
+      "yard": {
+        "start": "2026-05-10T06:16:18.404996",
+        "end": "2026-05-12T04:16:18.404996",
+        "status": "complete",
+        "operator": "Yard Team"
+      },
+      "dispatch": {
+        "start": "2026-05-12T04:16:18.404996",
+        "end": "2026-05-12T04:16:18.404996",
+        "status": "complete",
+        "operator": "Colm Brady"
+      },
+      "delivery": {
+        "start": "2026-05-12T06:28:04.115008",
+        "end": "2026-05-12T06:28:04.115008",
+        "status": "complete",
+        "operator": "Colm Brady"
+      }
+    },
+    "qa": {
+      "slump_mm": 164,
+      "slump_pass": true,
+      "water_cement_ratio": 0.43,
+      "air_content_pct": 3.6,
+      "28day_strength_mpa": 51.9,
+      "strength_pass": true,
+      "overall_qa": "PASS"
+    }
+  },
+  {
+    "batch_id": "BCH-2025-2019",
+    "order_id": "ORD-2025-1107",
+    "grade": "C50",
+    "volume_m3": 8.0,
+    "truck_id": "TRK-002",
+    "truck_reg": "MH-22-MH-887",
+    "driver": "Sean Fitzpatrick",
+    "site_id": "SITE-07",
+    "site_name": "Mullingar Data Centre",
+    "qr_code": "ORP-QR-3019",
+    "rfid_tag": "RFID-F3CD",
+    "stages": {
+      "mix": {
+        "start": "2026-05-17T06:19:18.404996",
+        "end": "2026-05-17T06:31:18.404996",
+        "status": "complete",
+        "operator": "Plant Control"
+      },
+      "pour": {
+        "start": "2026-05-17T06:48:18.404996",
+        "end": "2026-05-17T07:25:18.404996",
+        "status": "complete",
+        "operator": "Mould Team B"
+      },
+      "cure": {
+        "start": "2026-05-17T07:25:18.404996",
+        "end": "2026-05-18T01:25:18.404996",
+        "status": "complete",
+        "operator": "Curing Bay 2"
+      },
+      "yard": {
+        "start": "2026-05-18T01:25:18.404996",
+        "end": "2026-05-19T00:25:18.404996",
+        "status": "complete",
+        "operator": "Yard Team"
+      },
+      "dispatch": {
+        "start": "2026-05-19T00:25:18.404996",
+        "end": "2026-05-19T00:25:18.404996",
+        "status": "complete",
+        "operator": "Sean Fitzpatrick"
+      },
+      "delivery": {
+        "start": "2026-05-19T01:29:44.183757",
+        "end": "2026-05-19T01:29:44.183757",
+        "status": "complete",
+        "operator": "Sean Fitzpatrick"
+      }
+    },
+    "qa": {
+      "slump_mm": 142,
+      "slump_pass": true,
+      "water_cement_ratio": 0.45,
+      "air_content_pct": 2.8,
+      "28day_strength_mpa": 49.5,
+      "strength_pass": true,
+      "overall_qa": "PASS"
+    }
+  }
+]

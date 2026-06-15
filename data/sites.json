@@ -1,0 +1,58 @@
+[
+  {
+    "id": "SITE-01",
+    "name": "Dublin Port Tunnel Extension",
+    "lat": 53.3588,
+    "lon": -6.2197,
+    "county": "Dublin"
+  },
+  {
+    "id": "SITE-02",
+    "name": "Drogheda Road Bridge",
+    "lat": 53.7176,
+    "lon": -6.3561,
+    "county": "Louth"
+  },
+  {
+    "id": "SITE-03",
+    "name": "Navan Retail Park",
+    "lat": 53.6558,
+    "lon": -6.6878,
+    "county": "Meath"
+  },
+  {
+    "id": "SITE-04",
+    "name": "Dundalk Industrial Estate",
+    "lat": 54.0027,
+    "lon": -6.4173,
+    "county": "Louth"
+  },
+  {
+    "id": "SITE-05",
+    "name": "Cavan Town Apartments",
+    "lat": 53.9906,
+    "lon": -7.3597,
+    "county": "Cavan"
+  },
+  {
+    "id": "SITE-06",
+    "name": "Monaghan Bypass",
+    "lat": 54.2492,
+    "lon": -6.9682,
+    "county": "Monaghan"
+  },
+  {
+    "id": "SITE-07",
+    "name": "Mullingar Data Centre",
+    "lat": 53.5228,
+    "lon": -7.3423,
+    "county": "Westmeath"
+  },
+  {
+    "id": "SITE-08",
+    "name": "Athlone River Crossing",
+    "lat": 53.4239,
+    "lon": -7.9407,
+    "county": "Westmeath"
+  }
+]

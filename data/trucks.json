@@ -1,0 +1,62 @@
+[
+  {
+    "id": "TRK-001",
+    "reg": "CV-23-D-1142",
+    "capacity_m3": 8.0,
+    "status": "available",
+    "driver": "Padraig Murphy",
+    "lat": 53.9069,
+    "lon": -6.8092,
+    "last_service": "2025-04-10"
+  },
+  {
+    "id": "TRK-002",
+    "reg": "MH-22-MH-887",
+    "capacity_m3": 8.0,
+    "status": "available",
+    "driver": "Sean Fitzpatrick",
+    "lat": 53.9069,
+    "lon": -6.8092,
+    "last_service": "2025-03-22"
+  },
+  {
+    "id": "TRK-003",
+    "reg": "LH-21-LH-445",
+    "capacity_m3": 6.0,
+    "status": "en_route",
+    "driver": "Colm Brady",
+    "lat": 53.82,
+    "lon": -6.51,
+    "last_service": "2025-05-01"
+  },
+  {
+    "id": "TRK-004",
+    "reg": "CN-20-CN-334",
+    "capacity_m3": 8.0,
+    "status": "available",
+    "driver": "Kieran O'Brien",
+    "lat": 53.9069,
+    "lon": -6.8092,
+    "last_service": "2025-04-28"
+  },
+  {
+    "id": "TRK-005",
+    "reg": "MN-23-MN-291",
+    "capacity_m3": 9.0,
+    "status": "maintenance",
+    "driver": "Declan Reilly",
+    "lat": 53.9069,
+    "lon": -6.8092,
+    "last_service": "2025-02-15"
+  },
+  {
+    "id": "TRK-006",
+    "reg": "WH-22-WH-603",
+    "capacity_m3": 8.0,
+    "status": "available",
+    "driver": "Michael Dunne",
+    "lat": 53.9069,
+    "lon": -6.8092,
+    "last_service": "2025-05-05"
+  }
+]
